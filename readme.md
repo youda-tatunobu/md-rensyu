@@ -24,3 +24,12 @@ hello. hello. hello. hello. hello.
 アンダースコア
 
 ___
+
+
+#強調
+
+*hello.*
+
+日本語は斜体にならない
+
+*あああああ.*
